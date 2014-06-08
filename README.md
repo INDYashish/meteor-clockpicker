@@ -35,7 +35,7 @@ In your template:
 </div>
 ```
 
-In your corresponding JS File
+In your corresponding JS File:
 ```
 Template.myTemplate.rendered = function () {
     $('.clockpicker').clockpicker();
